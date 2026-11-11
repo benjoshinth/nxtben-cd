@@ -1,3 +1,7 @@
+//I WAS PLAYING WITH FUNCTIONS
+
+
+
 #include<iostream>
 #include<iomanip>
 void call(int a){
